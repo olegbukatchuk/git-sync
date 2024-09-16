@@ -16,4 +16,4 @@ docker run \
   --env SRC_REPO=${SRC_REPO} \
   --env DST_REPO=${DST_REPO} \
   --env SLEEP_TIME=30s \
-  olegbukatchuk/tls-tofu:1.0.0
+  olegbukatchuk/git-sync:1.0.0
