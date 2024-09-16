@@ -1,6 +1,6 @@
 # git-sync
 
-_A container image for synchronizing git repositories over HTTPS_
+Container image for synchronizing git repositories over HTTPS
 
 *Features*:
 * Authentication with https tokens
